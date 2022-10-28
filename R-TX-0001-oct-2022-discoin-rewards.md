@@ -1,18 +1,17 @@
 ---
 R-TX: 1
 Title: Oct 2022 Discoin Rewards - 🍒 Custody & Distribution
-Authors: Frederic Johnson <frederic.johnson@cardanofoundation.org>, Sebastien Guillemot <sebastien@dcspark.io>, Matthias Benkort <matthias.benkort@cardanofoundation.org>, Duncan Coutts <duncan.coutts@iohk.io>
+Authors: 🍒
 Status: Active
-Type: Process
-Created: 2020-03-21
+Type: Distribution
+Created: 2022-10-28
 License: CC-BY-4.0
 ---
 
+![discoin](https://i.imgur.com/Zv2BZH1.png)
 # Oct 2022 Discoin Rewards
 ## 🍒 Custody & Distribution
 
-
-![discoin](https://i.imgur.com/Zv2BZH1.png)
 
 ### quicklinks
 - [discoin rewards multisig](https://roundtable.theadao.io/treasuries/gwMGioIAWBwEv5sb6GB1eb6C6N7hzO3ShKX5dxZBqYaHn%2FqDggBYHH3tegb%2FLULi0CBV03ATdHyznbBz09iQ%2BiE0wlCCAFgcwtQO9MfCzyTaxHwbjVpbJ7WUYVjPtxGNk%2FXTM4IAWBz6pmbOqEpSHukOS261DngbsBufS3HkUnF%2FAcCeggBYHHVW8xP7Bh4vZm6wyF76lYz3lpL8qzuZc2wJhn%2BCAFgcqV8Zsrig7mX%2FIi4d7SsGRipx4N059Sre6RMBIYIAWBy32jyBplQtUvpgtHGCyxNVRcvI0SLQzUvbHzJ3ggBYHMuxKavlOHlcrZKopOtllOYPTXySwQl9mdZmlxKCAFgc0Op25dTC2XY0L1GLLQMt2DOhsP1EZNzshS2dvoIAWByVU21Nkb3bxlyVVeJsIaaRZ0DafcULZKnJSgg9)
