@@ -57,4 +57,4 @@ Once six signatures have been obtained, any may submit the transaction.
 
 Please note that this month's distributions cannot go out until this transaction is completed. Thank you!
 
-I attach my (🍒) signature: ```a10081825820d61f72059e8155144515d2f3ab5f66747119610a6982778a960398bcf2b32b5a58400e6121095ff8bfc77618b7511649f9a48c2d9ea2a5892e3e4f377e64b7eae4deb1b339cde5947fd5066890be3018be127adc080f752591056d547009804c0b00```
+I attach my (🍒) signature: ```a10081825820d61f72059e8155144515d2f3ab5f66747119610a6982778a960398bcf2b32b5a58404aa3493c8fe05f3c0205a7c5ab0a391df5e204811d46aed1277ab3d8919831ba3af6458080cc9a005151abfcd6f008d79169beaa56ff0a4b4e7af7b383e6d408```
