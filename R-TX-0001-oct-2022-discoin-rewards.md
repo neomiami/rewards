@@ -21,6 +21,7 @@ License: CC-BY-4.0
 
 ### tx 
 [`fed2f304768c558fb0ca0d9d3db6f3338a401b8b5cadef2c636763e8e9edc8a5`](https://cardanoscan.io/transaction/fed2f304768c558fb0ca0d9d3db6f3338a401b8b5cadef2c636763e8e9edc8a5)
+
 This replaces a previous transaction that did not have
 
 minAda properly set due to a calculation error in Round-
